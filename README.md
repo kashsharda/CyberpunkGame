@@ -15,6 +15,7 @@ Basic infinite scrolling environment implemented, working on extending tilemaps.
 Player controls and movement mechanics functional. Wanted to get a good version of one level set up before proceeding.
 Collision detection and obstacle avoidance added. Enemy attack and Player Attack all set up.
 Game restart not yet enabled.
+Game Manager set up started.
 
 
 **Visuals and Theme:**
