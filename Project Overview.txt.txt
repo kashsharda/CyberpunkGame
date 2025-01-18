@@ -1,0 +1,34 @@
+Cyberpunk Biker: Infinite Runner
+
+Overview
+
+Cyberpunk Biker is a thrilling 2D infinite scrolling game set in a vibrant cyberpunk world. You take on the role of a biker moving through neon-lit streets, dodging obstacles, collecting upgrades, and battling opponents in a high-tech dystopia. This game blends fast-paced action with a visually stunning aesthetic to create an immersive experience.
+
+Features (Present and to be Added)
+
+Cyberpunk Theme: Explore a neon-drenched, futuristic cityscape inspired by cyberpunk culture.
+Endless Gameplay: Test your reflexes and endurance in an infinite scrolling adventure.
+Dynamic Opponents: Face increasingly challenging opponents, with more being added in future updates.
+Upgrades and Power-ups: Collect power-ups to enhance your bike and gain an edge over your enemies.
+
+Planned Enhancements
+
+New Opponents: Additional enemy types with unique abilities and behaviors.
+Story Mode: A narrative-driven campaign to complement the endless mode.
+Weapon Upgrades: Equip your biker with futuristic weapons to take down foes.
+Leaderboard: Compete with players globally for the highest score.
+Customization: Personalize your biker and bike with various skins and accessories.
+
+How to Play
+
+Move: Navigate your biker through the neon streets to avoid obstacles.
+Collect: Gather power-ups to boost your speed and abilities.
+Battle: Engage in combat with opponents as you progress.
+Survive: Keep going as long as you can to achieve the highest score.
+Health Bar: Keep an eye on your health bar to check how many lives you have in a fight.
+
+Controls
+
+Arrow Keys/WASD: Navigate your biker.
+Space Bar: Activate a jump
+Left Mouse Click: Attack Opponent
